@@ -1,0 +1,20 @@
+{
+  "name": "learn_npm",
+  "version": "1.0.0",
+  "description": "Learning writing and publising npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranahiren27/learing-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranahiren27/learing-npm/issues"
+  },
+  "homepage": "https://github.com/ranahiren27/learing-npm#readme"
+}
